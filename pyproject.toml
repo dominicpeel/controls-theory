@@ -1,0 +1,12 @@
+[project]
+name = "controls-theory"
+version = "0.1.0"
+description = "Learning robot control"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "mediapy>=1.2.6",
+    "mujoco>=3.5.0",
+    "robot-descriptions>=1.22.0",
+]
